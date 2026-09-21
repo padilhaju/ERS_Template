@@ -5,7 +5,7 @@
 * **Grupo:** <##>
 * **Disciplina:** Engenharia de Requisitos
 * **Professora:** Juliana Padilha
-* **Data:** Junho de 2026[cite: 1]
+* **Data:** Junho de 2026
 
 ---
 
