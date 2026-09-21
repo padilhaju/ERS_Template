@@ -38,7 +38,7 @@ A seguinte Especificação de Requisitos de Software foi aceita e aprovada:
 
 <ol>
 <li><a href="docs/1-Introdução.md"> Introdução</a></li>
-<li><a href="docs/2-Planejamento_GestãoSprints.md"> Cronograma e Gestão de Papéis por Sprint</a></li>
+<li><a href="docs/2-descricao-geral.md"> Descrição Geral do Software</a></li>
 <li><a href="docs/3-Arquitetura_Processos.md"> Contexto do Negócio e Arquitetura de Processos</a></li>
 <li><a href="docs/4-Modelagem-Processos-Negócio.md"> Modelagem dos Processos de Negocio</a></li>
 <li><a href="docs/5-Projeto-Solucao.md"> Projeto da solução</a></li>
