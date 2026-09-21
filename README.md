@@ -1,27 +1,38 @@
-# TÍTULO DO PROJETO
+# <Nome do Projeto>
 
-`CURSO`
+**Especificação de Requisitos de Software (ERS)**
 
-`DISCIPLINA`
+* **Grupo:** <##>
+* **Disciplina:** Engenharia de Requisitos
+* **Professora:** Juliana Padilha
+* **Data:** Junho de 2026[cite: 1]
 
-`SEMESTRE`
+---
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+## Integrantes do Grupo
+* <Nome Aluno>
+* <Nome Aluno>
+* <Nome Aluno>
+* <Nome Aluno>
 
-## Integrantes
+---
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+## Histórico de Revisões
 
-## Orientador
+| Data | Versão | Autor | Comentários |
+| :--- | :--- | :--- | :--- |
+| <data> | Versão 1 | <Seu nome> | Primeira revisão |
 
-* Nome completo do professor 1
+---
 
-## Instruções de utilização
+## Aprovação de Documentos
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+A seguinte Especificação de Requisitos de Software foi aceita e aprovada:
+
+| Nome | Título | Data | Assinatura |
+| :--- | :--- | :--- | :--- |
+| Juliana Padilha | Professora da disciplina de Engenharia de Requisitos | 08/04/2026 | |
+
 
 # Documentação
 
