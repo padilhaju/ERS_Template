@@ -6,7 +6,7 @@ O objetivo é simular uma revisão técnica feita por um especialista de forma a
 
 ## 5.1 Instruções para a Equipe
 
-Vocês deverão construir e executar um **Prompt de Validação** em uma ferramenta de IA generativa (como ChatGPT, Claude ou Copilot). O texto deve ser estruturado de forma a orientar a IA a agir sob um papel específico e avaliar pontos críticos da documentação.
+Vocês deverão construir e executar um **Prompt de Validação** em uma ferramenta de IA generativa (como ChatGPT, Claude ou Gemini). O texto deve ser estruturado de forma a orientar a IA a agir sob um papel específico e avaliar pontos críticos da documentação.
 
 ### Requisitos do Prompt (O que deve conter):
 1. **Atribuição de Papel (*Role-playing*):** Definam a IA como um Engenheiro de Requisitos Sênior ou um Product Owner experiente.
