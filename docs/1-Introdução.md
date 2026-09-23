@@ -30,12 +30,4 @@ Liste e explique termos técnicos ou siglas usadas no documento:
 | **API** | Application Programming Interface. Um conjunto de definições e protocolos que permite a integração entre diferentes sistemas. |
 | **UI** | User Interface. Interface do Usuário. Parte visual do sistema com a qual o usuário interage. |
 
-## 1.4 Referências
 
-Relacione documentos, normas ou artigos que servem de referência, como documentação técnica existente ou padrões utilizados.
-
-## 1.5 Visão Geral
-
-Ofereça uma breve descrição de como o documento está estruturado e o que ele cobre.
-
-*Exemplo:* Este documento de requisitos é organizado para oferecer uma compreensão completa e estruturada das necessidades e objetivos do projeto de software X. A introdução, na Seção 1, apresenta o propósito do documento, delineando o escopo do software e definindo o público-alvo, além de esclarecer termos técnicos, siglas e abreviações utilizadas. Na sequência, na Seção 2, são detalhados os...
